@@ -6,7 +6,7 @@
   "headerTaglineFour": " based in London, UK.",
   "showCursor": true,
   "showBlog": true,
-  "darkMode": false,
+  "darkMode": true,
   "showResume": true,
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/deankiwi" },
@@ -50,52 +50,47 @@
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Full-Stack Development",
+      "description": "Building websites and web applications using React, Node.js, and Express."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Automation",
+      "description": "Building automation tools using Python and Selenium."
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
-    },
-    {
-      "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "Test-Driven Development",
+      "description": "Writing tests using Jest and Supertest."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "Having enjoyed a rewarding 5-year career as a structural engineer in the construction industry, I have recently made a deliberate shift towards software development. To equip myself for this transition, I completed a rigorous 13-week software development bootcamp with Northcoder, where I honed my skills in various technologies.",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "🧑‍💻 Software Developer",
+    "description": "I am a software developer with a background in structural engineering. I have a passion for building web applications and automation tools. I am proficient in React, Node.js, and Python. I am currently seeking a full-time role as a software developer.",
     "experiences": [
       {
-        "id": "1",
-        "dates": "March 2022 - Present",
+        "id": "4512cc52-7749-4a4d-a4f2-45095b6f8479",
+        "dates": "November 2023 - March 2024",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Bullet One, Bullet Two"
+        "position": "Software Developer at Northcoders Bootcamp",
+        "bullets": "Test-driven development,Object-oriented programming, Full Stack Development, Back End - Node.js, asynchronous programming, APIs, Databases, Front End - Proficient in React, Creating accessible websites."
       },
       {
-        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
+        "id": "2",
+        "dates": "January 2018 - November 2023",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        "position": "Structural Engineer at Meinhardt UK",
+        "bullets": " Python.  Jupyter Notebook. Grasshopper (visual programming language and environment used for parametric modelling), Designed and implemented a testing suite (constructed in Python) for structural model, Led multi-million pound projects, Collaborating closely with architects and contractors, Utilising advanced finite element design software and precise hand calculations."
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "University of Nottingham",
+      "universityDate": "2013-2017",
+      "universityPara": "Computerised Mathematical Methods in Engineering (70%) - Basic linear regression and optimisation using Matlab.\nProgramming In Python (93%) - Introduction to Object-oriented programming. \n Marine Renewable Energy (82%) - Analysed wave data in Matlab, predicting kinetic energy converter output."
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
     "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "others": ["AWS"]
   }
 }
